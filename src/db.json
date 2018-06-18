@@ -1,15 +1,58 @@
 {
-    "produtos": [
-
-    ],
-    "categorias": [
-        {
-            "id": 1,
-            "categoria": "Limpeza"
-        },
-        {
-            "id": 2,
-            "categoria": "Alimentos"
-        }
-    ]
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão Líquido",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Bolacha",
+      "categoria": 2
+    },
+    {
+      "produto": "Produto 1",
+      "categoria": "4",
+      "id": 4
+    },
+    {
+      "produto": "Amaciante Baby",
+      "categoria": "1",
+      "id": 5
+    },
+    {
+      "produto": "Omo",
+      "categoria": "1",
+      "id": 6
+    },
+    {
+      "produto": "Produto 1",
+      "categoria": "3",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "produto": "Produto 3",
+      "categoria": "3"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "categoria": "Bazar",
+      "id": 3
+    }
+  ]
 }
